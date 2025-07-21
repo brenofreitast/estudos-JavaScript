@@ -1,4 +1,4 @@
-let num1 = 9;
+let num1 = 9.94;
 // let inteiro = Math.floor(num1);
     // Math.floor Arredonda numero para baixo.
 
@@ -28,4 +28,4 @@ let num1 = 9;
 
 
 
-console.log(num1);
+console.log(inteiro);
