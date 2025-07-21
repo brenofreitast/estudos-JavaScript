@@ -20,6 +20,10 @@
     console.log(pessoa1.idade)
 */
 
+
+//  ____________________________________________________________________________________________
+
+
 /* FUNCTION + OBJETO
 
     function criaPessoa (nome, sobrenome, idade){
