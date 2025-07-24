@@ -1,0 +1,19 @@
+/*
+    OPERADORES DE COMPARAÇÃO
+
+    >   MAIOR QUE
+    >=  MAIOR QUE OU IGUAL A
+    <   MENOR QUE
+    <=  MENOR QUE OU IGUAL A
+    ==  IGUALDADE
+    === IGUALDADE ESTRITA
+    !=  DIFERENTE
+    !== DIFERENTE ESTRITO
+
+    OPERADORES EM ESTRITO, CHECAM VALOR E TIPO.(RECOMENDADO)   
+
+*/
+
+console.log(10 === 10);
+
+
