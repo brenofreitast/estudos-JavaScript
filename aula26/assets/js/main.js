@@ -1,16 +1,16 @@
 function meuEscopo() {
 
     const form = document.getElementById('form');
-    const pesoInput = document.getElementById('peso');
-    const alturaInput = document.getElementById('altura');
 
-
-
+    
     function recebeEvento(evento) {
         evento.preventDefault();
 
-        const peso = parseFloat(pesoInput.value);
-        const altura = parseFloat(alturaInput.value);
+        let pesoInput = document.getElementById('peso');
+        let alturaInput = document.getElementById('altura');
+
+        let peso = parseFloat(pesoInput.value);
+        let altura = parseFloat(alturaInput.value);
 
 
         if (isNaN(peso) || isNaN(altura) || altura === 0) {
