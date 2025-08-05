@@ -71,7 +71,11 @@ form button:hover{
     flex: 1;
 }
 
-.paragrafo-resultado{
+.paragrafo-resultado, .bad{
     background: rgb(109, 255, 182);
     padding: 10px 20px;
+}
+
+.bad{
+    background: rgb(255, 109, 109);
 }
