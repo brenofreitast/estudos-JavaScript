@@ -1,4 +1,4 @@
-// // ATRIBUIÇÃO VIA DESESTRUTURAÇÃO
+// // ATRIBUIÇÃO VIA DESESTRUTURAÇÃO (ARRAY)
 
 // // EX =
 //     let a = 'A'; // -> B
